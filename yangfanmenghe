@@ -1,0 +1,37 @@
+<meta charset= UTF-8
+# 克隆仓库到本地
+git clone https://github.com/yangfanmenghe/yangfanmenghe.github.io.git
+ 
+# 进入仓库目录
+cd yangfanmenghe.github.io
+ 
+# 创建index.html文件并编辑
+echo "<html><body>Hello, GitHub Pages!</body></html>" > index.html
+ 
+# 添加文件到仓库
+git add .
+ 
+# 提交更改
+git commit -m "Initial deployment"
+ 
+# 推送到GitHub
+git push origin master
+<!DOCTYPE html>
+
+<html>
+    <head>
+<title>file:///C:/Users/Admin/Desktop/menghe.html</title>
+    </head>
+    <body>
+<a href="file:///C:/Users/Admin/Desktop/menghe.html">梦和</a>
+        <p>太空机箱拆玻璃:
+        <a href="https://pan.baidu.com/s/1B4d5U9ZHzQeNoSqU93i4Ig">太空舱机箱拆玻璃</a>
+        <a href="https://pan.baidu.com/s/1KZsQy6SENuGkuh-T0Z5McQ">显卡支架拆</a>
+        </p>
+        <p>小咖机箱装机教程：
+        <a href="https://pan.baidu.com/s/1vsuBsX805nlaSBPS6XHFpA">小咖</a>
+        </p>
+        </div>
+    </body>
+   
+</html>
